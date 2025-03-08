@@ -1,0 +1,10 @@
+body {
+    transition: background-color 0.3s ease;
+  }
+  .bg-dark {
+    background-color: #819bb6 !important;
+    color: rgb(187, 173, 173);
+  }
+
+  
+  
